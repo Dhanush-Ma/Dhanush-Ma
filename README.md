@@ -1,37 +1,54 @@
-<h1 align="center">Hi 👋, I'm Dhanush Mahesh</h1>
-<h3 align="center">A passionate Fullstack developer based out of India</h3>
-<p  align= "center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlkNjJiMWY4OTFiNWFkNWFkMjA5YTM4N2Y5OWM2Y2UwNGY2ZjU4YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif" alt="gify" width="80" height="80"/>
+<h1 >Hi 👋, I'm Dhanush Mahesh</h1>
+<h3 >AI/ML Engineer • Freelancer</h3>
+
+<p>
+  <img src="https://camo.githubusercontent.com/b7a48f515e84d4a185daf8984f9414ebb6b8af4686af0a47831bbd6966bc1671/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a446c6b4e6a4a694d5759344f5446694e57466b4e57466b4d6a413559544d344e3259354f574d32593255774e4759325a6a553459795a6c634431324d563970626e526c636d35686246396e61575a7a583264705a6b6c6b4a6d4e3050584d2f32596779306b687765774c674d53594d30742f67697068792e676966" width="100" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-ma&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-ma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanush-ma" alt="dhanush-ma" /></a> </p>
+## 🚀 What I Do
 
-- 🌱 I’m currently learning **NextJS, AI&ML**
+I'm an **AI/ML engineer** at [Yuvabe](https://yuvabe.com), focused on building intelligent systems using multi-agent frameworks, LLM orchestration, and scalable backend architecture.
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+On the side, I **freelance** with early-stage startups and founders to help them build AI-powered tools  from prototype to production.
 
-- 🤝 I’m looking for help with **Docker**
+⚡ Always open to  side project, a freelance gig, or anything that pushes the edge of practical AI. Let’s build something cool 🚀
 
-- 👨‍💻 All of my projects are available at [https://dhansuh-mahesh.netlify.app/](https://dhansuh-mahesh.netlify.app/)
+## 📢 Currently accepting freelance & contract AI projects!
 
-- 💬 Ask me about **MERN, React Native, Java**
+If you're building something with agents, automation, or AI-driven tooling — I’d love to help.  
+I collaborate with startups and technical teams through my agency to ship fast, reliable solutions.
 
-- 📫 How to reach me **iamdhanush02@gmail.com**
 
-- ⚡ Fun fact **Trust me I'm a Programmer.**
+## 🧠 Areas of Interest
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/iamdhanush02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamdhanush02" height="30" width="40" /></a>
-</p>
+- Multi-Agentic AI (CrewAI, LangGraph, AutoGen)
+- AI-driven SaaS tools and microproducts
+- Automation layers built on top of LLMs
+- Data-to-Action Pipelines (API chaining, RAG, real-time inference)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-ma&show_icons=true&locale=en&layout=compact" alt="dhanush-ma" /></p>
+## 🛠️ Tech & Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanush-ma&show_icons=true&locale=en" alt="dhanush-ma" /></p>
+**Languages & Core**  
+`Python` · `TypeScript` · `Node.js` · `Go`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush-ma&" alt="dhanush-ma" /></p>
+**Frameworks & Libraries**  
+`LangChain` · `LangGraph` · `CrewAI` · `FastAPI` · `Next.js` · `React`  
+
+**Cloud & Infra**  
+`GCP` · `Supabase` · `Firebase` · `Docker` · `Cloud Functions` · `Pub/Sub`
+
+**AI & Tools**  
+`OpenAI` · `Stable Diffusion Models` · `Image Generation Fine Tuning`  
+`Vector DBs (Pinecone, ChromaDB)` · `Prompt Engineering`  
+`LLM Tracing` · `Hugging Face` · `Replicate`
+
+
+## 📬 Reach Me
+
+- 🌐  [dhanush.io](https://dhanush.io) - Chekout all my projects here
+- ✍️  [dhanush.io/blogs](https://dhanush.io/blogs) – technical write-ups & experiments  
+- 💼  [LinkedIn](https://linkedin.com/in/iamdhanush02)
+
+
